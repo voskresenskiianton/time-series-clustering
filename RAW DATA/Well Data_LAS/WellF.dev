@@ -1,0 +1,15 @@
+# WELL TRACE FROM PETREL 
+# WELL NAME:              WellF
+# WELL HEAD X-COORDINATE: 406300.00000000 (m)
+# WELL HEAD Y-COORDINATE: 86550.00000000 (m)
+# WELL KB:                58.20000000 (m)
+# WELL TYPE:              OIL
+# MD AND TVD ARE REFERENCED (=0) AT KB AND INCREASE DOWNWARDS
+# ANGLES ARE GIVEN IN DEGREES
+# ANGLES ARE NOT EXACT (TRACE WAS NOT IMPORTED USING ANGLES)
+# MD IS NOT EXACT (TRACE WAS NOT IMPORTED WITH MD-DATA)
+#======================================================================================================================================
+      MD              X              Y             Z           TVD           DX           DY          AZIM          INCL          DLS
+#======================================================================================================================================
+ 0.0000000000   397635.00 86561.00 11.29000  0.000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000
+ 1800.0000000   397635.00 86561.00 -1788.71  1800.000 0.0000000000 0.0000000000 0.0000000000 0.0000000000 0.0000000000
