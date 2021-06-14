@@ -13,12 +13,8 @@ link to the Watt dataset:  https://github.com/Uncproject/WATT_FIELD
 <br>
 #### Spatial Zonation of the Field by One-Dimensional Signal Clustering in Order to Improve Quality of History Matching
 <br>
-By [A. Voskresenskiy](https://www.earthdoc.org/search?value1=A.+Voskresenskiy&option1=author&noRedirect=true),[N. Buckanov](https://www.earthdoc.org/search?value1=N.+Buckanov&option1=author&noRedirect=true) and [G. Y. Shishaev](https://www.earthdoc.org/search?value1=G.+Y.+Shishaev&option1=author&noRedirect=true)
-<br>
-Publisher: European Association of Geoscientists & Engineers
+By [A. Voskresenskiy](https://www.earthdoc.org/search?value1=A.+Voskresenskiy&option1=author&noRedirect=true),N. Buckanov and G. Y. Shishaev
 <br>
 Source: [Conference Proceedings](https://www.earthdoc.org/content/serial/2214-4609),[Tyumen 2019](https://www.earthdoc.org/content/proceedings/tyumen2019), Mar 2019, Volume 2019, p.1 - 5
 <br>
 DOI: [https://doi.org/10.3997/2214-4609.201900548](https://doi.org/10.3997/2214-4609.201900548)
-<br>
-https://www.earthdoc.org/content/papers/10.3997/2214-4609.201900548
