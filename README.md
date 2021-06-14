@@ -11,7 +11,9 @@ link to the project report: https://docs.google.com/document/d/1vpxUO4KO3Qads9oG
 <br>
 link to the Watt dataset:  https://github.com/Uncproject/WATT_FIELD
 <br>
-#### Spatial Zonation of the Field by One-Dimensional Signal Clustering in Order to Improve Quality of History Matching
+
+## Spatial Zonation of the Field by One-Dimensional Signal Clustering in Order to Improve Quality of History Matching
+
 <br>
 By [A. Voskresenskiy](https://www.earthdoc.org/search?value1=A.+Voskresenskiy&option1=author&noRedirect=true), N. Buckanov and G. Y. Shishaev
 <br>
