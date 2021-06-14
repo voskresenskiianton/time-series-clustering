@@ -15,6 +15,6 @@ link to the Watt dataset:  https://github.com/Uncproject/WATT_FIELD
 <br>
 By [A. Voskresenskiy](https://www.earthdoc.org/search?value1=A.+Voskresenskiy&option1=author&noRedirect=true),N. Buckanov and G. Y. Shishaev
 <br>
-Source: [Conference Proceedings](https://www.earthdoc.org/content/serial/2214-4609),[Tyumen 2019](https://www.earthdoc.org/content/proceedings/tyumen2019), Mar 2019, Volume 2019, p.1 - 5
+Source: [Conference Proceedings](https://www.earthdoc.org/content/serial/2214-4609), [Tyumen 2019](https://www.earthdoc.org/content/proceedings/tyumen2019), Mar 2019, Volume 2019, p.1 - 5
 <br>
 DOI: [https://doi.org/10.3997/2214-4609.201900548](https://doi.org/10.3997/2214-4609.201900548)
